@@ -1,7 +1,7 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 2,
+    "pullRequests": 1,
     "issues": 0,
     "reviews": 0
   },
@@ -11,34 +11,7 @@
       "description": "Pull request",
       "date": "2026-02-17",
       "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to Manahil-Afzal/BLT",
-      "description": "Code changes",
-      "date": "2026-02-16",
-      "url": "https://github.com/Manahil-Afzal/BLT",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to Manahil-Afzal/BLT",
-      "description": "Code changes",
-      "date": "2026-02-15",
-      "url": "https://github.com/Manahil-Afzal/BLT",
-      "type": "commit"
-    },
-    {
-      "title": "opened PR: undefined",
-      "description": "Pull request",
-      "date": "2026-02-15",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to Manahil-Afzal/BLT",
-      "description": "Code changes",
-      "date": "2026-02-15",
-      "url": "https://github.com/Manahil-Afzal/BLT",
-      "type": "commit"
     }
   ],
-  "lastUpdated": "2026-03-18T02:04:26.135Z"
+  "lastUpdated": "2026-03-19T02:05:13.861Z"
 }

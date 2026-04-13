@@ -7,6 +7,13 @@
   },
   "contributions": [
     {
+      "title": "Pushed commits to Manahil-Afzal/ZyLO-Learning-System",
+      "description": "Code changes",
+      "date": "2026-04-12",
+      "url": "https://github.com/Manahil-Afzal/ZyLO-Learning-System",
+      "type": "commit"
+    },
+    {
       "title": "labeled issue: OWASP BLT LOGOS",
       "description": "\nBLT-Logos, A new logo needs to be designed or added to the display grid.\n\n* **Proposed Logo Design:** \n\n<img width=\"1024\" height=\"1024\" alt=\"Image\" s",
       "date": "2026-04-09",
@@ -128,13 +135,7 @@
       "description": "Pull request",
       "date": "2026-03-26",
       "type": "pull_request"
-    },
-    {
-      "title": "merged PR: undefined",
-      "description": "Pull request",
-      "date": "2026-03-26",
-      "type": "pull_request"
     }
   ],
-  "lastUpdated": "2026-04-12T02:28:30.195Z"
+  "lastUpdated": "2026-04-13T02:33:14.484Z"
 }

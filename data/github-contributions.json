@@ -1,7 +1,7 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 6,
+    "pullRequests": 2,
     "issues": 3,
     "reviews": 0
   },
@@ -68,35 +68,11 @@
       "type": "issue"
     },
     {
-      "title": "merged PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-23",
-      "type": "pull_request"
-    },
-    {
-      "title": "merged PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-23",
-      "type": "pull_request"
-    },
-    {
-      "title": "merged PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-06",
-      "type": "pull_request"
-    },
-    {
       "title": "Pushed commits to Manahil-Afzal/BLT-GSOC",
       "description": "Code changes",
       "date": "2026-05-05",
       "url": "https://github.com/Manahil-Afzal/BLT-GSOC",
       "type": "commit"
-    },
-    {
-      "title": "opened PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-05",
-      "type": "pull_request"
     },
     {
       "title": "Pushed commits to Manahil-Afzal/BLT-GSOC",
@@ -106,5 +82,5 @@
       "type": "commit"
     }
   ],
-  "lastUpdated": "2026-05-30T02:53:39.210Z"
+  "lastUpdated": "2026-05-31T03:39:08.706Z"
 }
